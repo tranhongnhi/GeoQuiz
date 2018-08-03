@@ -1,8 +1,17 @@
 <resources>
     <string name="app_name">GeoQuiz</string>
-    <string name="question_text">Ha Noi is capital of Viet Nam</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
     <string name="correct_toast">Correct!</string>
     <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="back_button">Back</string>
+    <string name="question_1">Ha Noi is capital of Viet Nam</string>
+    <string name="question_2">Seoul is capital of Korea</string>
+    <string name="question_3">Tokyo is capital of China</string>
+    <string name="question_4">London is a city of United Kingdom</string>
+    <string name="warning_text">Are you sure want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong</string>
 </resources>
